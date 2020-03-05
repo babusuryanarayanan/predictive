@@ -1,0 +1,45 @@
+:host {
+    display: flex;
+}
+
+.card-container {
+    width: 100%;
+}
+
+.card-width {
+    width: auto !important;
+    height: auto;
+    margin-top: 20px;
+}
+.card-padding {
+    padding: 0 !important;
+    line-height: 1.75rem;
+}
+.col-sm-6 {
+    padding: 0px !important;
+    
+}
+
+
+.spacing {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.arrange-flex {
+    display:flex;
+   
+
+}
+
+.extra  {
+    padding-right: 30px;
+}
+
+.extra-left {
+    padding-left: 30px;
+}
+
+.col {
+    background-color: white;
+    border: 2px solid grey;
+}

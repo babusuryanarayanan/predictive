@@ -1,0 +1,43 @@
+app-dashboard {
+    width: 100%;
+}
+
+.header-cnt {
+    background-color: #10585c;
+    line-height: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.align-c {
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.align-p {
+    padding-top: 9px;
+}
+.saa-pos {
+    padding-right: 100px;
+    padding-top: 5px;
+
+}
+.align-dd-cnt {
+    margin-left: -95px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    .algn-txt {
+        padding-top: 0px;
+    }
+    .saa-pos  {
+        padding: 9px;
+    }
+    .align-c {
+        font-size: 14px;
+    }
+    
+  }
