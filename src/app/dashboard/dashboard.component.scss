@@ -1,0 +1,30 @@
+:host {
+    display: flex;
+}
+
+.card-container {
+    width: 100%;
+}
+
+.spacing {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.arrange-flex {
+    display:flex;
+   
+
+}
+
+.extra  {
+    padding-right: 30px;
+}
+
+.extra-left {
+    padding-left: 30px;
+}
+
+.col {
+    background-color: white;
+    border: 2px solid grey;
+}
